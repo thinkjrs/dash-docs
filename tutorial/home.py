@@ -145,7 +145,7 @@ layout = html.Div(className='toc', children=[
 
     Section('Dash Deployment Server', [
         Chapter('About Dash Deployment Server',
-                'https://plot.ly/dash/pricing/'),
+                'https://go.plot.ly/demo_live'),
         Chapter(chapters['dash-deployment-server']['name'],
                 chapters['dash-deployment-server']['url'])],
         description="""Dash Deployment Server is Plotly's commercial offering
